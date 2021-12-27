@@ -1,4 +1,4 @@
-# INDART:
+# INDART
 
 En esta web los artistas se pueden registrar y crear un perfil.
 
