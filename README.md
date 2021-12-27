@@ -1,4 +1,4 @@
-# indart
+# INDART:
 
 En esta web los artistas se pueden registrar y crear un perfil.
 
@@ -9,7 +9,7 @@ Para esto, cada artista registrado en la pagina tendra un perfil. En este perfil
 Tambien debe poder subir una o varias fotos suyas. Al igual que la posibilidad de subir un video corto agradeciendo o presentándose a los visitantes.
 
 
-# Incentivo económico
+## Incentivo económico
 
 Dentro del perfil de cada artista, debe haber una seccion para poder realizar una donacion con un metodo de pago electronico tradicional.
 
